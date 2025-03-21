@@ -85,6 +85,6 @@
 
 ---
 
-## Лицензия
+*Сделано с ❤️ и кофеином. *
 
-Этот проект распространяется под лицензией [MIT](LICENSE).
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
